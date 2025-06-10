@@ -7,4 +7,5 @@
 
 ![alt text](image.png)
 4. Exe export:
+
 pyinstaller --onefile --windowed --name "Fire-Smoke-Detector" main.py
