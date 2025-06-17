@@ -25,7 +25,7 @@ class SimpleFireDetector:
         self.excel_data = None
         self.detection_boxes = []
         self.current_batch_index = 0
-        self.thumbnails_per_batch = 10
+        self.thumbnails_per_batch = 21
         
         self.setup_ui()
         self.log_status("Application started. Use buttons to load files.")
